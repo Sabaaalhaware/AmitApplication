@@ -9,9 +9,8 @@ public class ReadFiles {
 	  
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		 String filePath = "";
-		// String filePath = "C:/path/to/your/Main.java";
+		
+		String filePath = "C:\\Users\\sabaa\\git\\repository\\AmitApplication\\src\\com\\jbs\\main\\Main.java";
 	        Path path = Paths.get(filePath);
 	        
 	        try {
