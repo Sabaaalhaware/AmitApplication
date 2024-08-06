@@ -4,7 +4,6 @@ public class Person {
 
 
 
-
 	protected String firstName;
 	private String lastName;
 	private int age;
@@ -28,7 +27,7 @@ public class Person {
 	}*/
 
 
-	public void printIfo() {
+	 void printIfo() {
 		System.out.println("name:" + firstName);
 
 	}

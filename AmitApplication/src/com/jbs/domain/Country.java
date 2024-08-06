@@ -1,6 +1,6 @@
 package com.jbs.domain;
 
-public class country {
+public class Country {
 
 	public static void main(String[] args) {
 		
