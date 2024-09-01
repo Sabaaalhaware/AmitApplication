@@ -1,3 +1,4 @@
+package com.jbs.a;
 
 public class Manage {
 
